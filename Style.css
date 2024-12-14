@@ -1,0 +1,92 @@
+:root{
+  font-family:'Open Sans', sans-serif;
+}
+
+body{
+  background-color:rgb(179, 23, 23);
+}
+
+#page{
+  background-color: #F5F4F0;
+  height: 3110px;
+  width: 1120px;
+  max-width: 1120px;
+  margin: auto;
+  padding: 20px 80px 20px 80px;
+  border: solid 1px;
+  border-radius: 25px;
+}
+
+h4{
+  color:#E95E10;
+  text-transform:uppercase;
+}
+
+h1{
+ font-weight: 700; 
+}
+
+#intro{
+  font-style: italic;
+  text-align: center;
+}
+
+p{
+  color: #333333;
+  text-align: justify;
+}
+
+#imagem3 ul + li{
+  padding-top: 0;
+}
+
+
+.negrito{
+  font-weight: 800;
+  padding-bottom: 0px;
+}
+
+.historia{
+  color:  blue;
+}
+
+#casais{
+  color: purple;
+  padding-top: 0px;
+
+}
+
+#familia{
+  color: palevioletred;
+
+}
+
+#orcamento{
+  color: orangered
+}
+
+#lugares{
+  border-bottom: solid 1px gray;
+  border-top: solid 1px gray;
+}
+
+#imagem1{
+  padding-bottom: 43px;
+}
+#imagem2{
+  padding-bottom: 43px;
+}
+
+#imagem3{
+  padding-bottom: 43px;
+}
+
+footer p{
+  padding-top: 20px;
+  text-align: center;
+}
+
+#nome{
+  color: white;
+  text-align: center;
+}
